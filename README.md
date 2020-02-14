@@ -9,10 +9,10 @@ Project Number -3
   <li>Sneha Ojha</li>
   
   # Links
-  [Repository-Link](https://github.com/Thamatamlahari/nyc-property-sales)
+  Repository-Link:(https://github.com/Thamatamlahari/nyc-property-sales)
   
   
-  [Issuetracker-Link](https://github.com/Thamatamlahari/nyc-property-sales/issues)
+  Issuetracker-Link:(https://github.com/Thamatamlahari/nyc-property-sales/issues)
   
   
  ## Introduction:
