@@ -2,9 +2,13 @@
 BigData- 44517
 Project Number -3
 <b>Team Members:
-Lahari Thamatam
-Vijaya Raja Mayuri
-Sneha Ojha
+  <li>Lahari Thamatam</li>
+  <li>Vijaya Raja Mayuri</li>
+  <liSneha Ojha</li>
+  
+  #Links
+  Repo Link: https://github.com/Thamatamlahari/nyc-property-sales
+  
 The data is in csv format.
 The key attributes are year built, residential units, commercial units, total units.
 Volume: The data size is 13MB. It consists of 84548 rows and 22 columns. There is one data source. The data was updated 2 years ago.
