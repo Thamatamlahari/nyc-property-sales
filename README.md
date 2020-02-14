@@ -7,8 +7,8 @@ Project Number -3
   <liSneha Ojha</li>
   
   # Links
-  ![Repository-Link](https://github.com/Thamatamlahari/nyc-property-sales)
-  ![Issuetracker-Link](https://github.com/Thamatamlahari/nyc-property-sales/issues)
+  [Repository-Link](https://github.com/Thamatamlahari/nyc-property-sales)
+  [Issuetracker-Link](https://github.com/Thamatamlahari/nyc-property-sales/issues)
  ##Introduction:
  This dataset is a record of every building or building unit (apartment, etc.) sold in the New York City property market over a 12-month period.
  
