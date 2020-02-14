@@ -1,10 +1,12 @@
 # nyc-property-sales
 BigData- 44517
+
+
 Project Number -3
 <b>Team Members:</b>
   <li>Lahari Thamatam</li>
   <li>Vijaya Raja Mayuri</li>
-  <liSneha Ojha</li>
+  <li>Sneha Ojha</li>
   
   # Links
   [Repository-Link](https://github.com/Thamatamlahari/nyc-property-sales)
