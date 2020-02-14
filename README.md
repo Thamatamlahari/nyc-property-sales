@@ -1,14 +1,17 @@
 # nyc-property-sales
 BigData- 44517
 Project Number -3
-<b>Team Members:
+<b>Team Members:</b>
   <li>Lahari Thamatam</li>
   <li>Vijaya Raja Mayuri</li>
   <liSneha Ojha</li>
   
-  #Links
-  Repo Link: https://github.com/Thamatamlahari/nyc-property-sales
-  
+  # Links
+  ![Repository-Link] (https://github.com/Thamatamlahari/nyc-property-sales)
+  ![Issuetracker-Link] (https://github.com/Thamatamlahari/nyc-property-sales/issues)
+ ##Introduction:
+ This dataset is a record of every building or building unit (apartment, etc.) sold in the New York City property market over a 12-month period.
+ 
 The data is in csv format.
 The key attributes are year built, residential units, commercial units, total units.
 Volume: The data size is 13MB. It consists of 84548 rows and 22 columns. There is one data source. The data was updated 2 years ago.
