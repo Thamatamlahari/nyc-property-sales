@@ -1,14 +1,14 @@
 # nyc-property-sales
-BigData- 44517
+BigData - 44517
 
 
-Project Number -3
+Project Number - 3
 
 
 <b>Team Members:</b>
-  <li>Lahari Thamatam</li>
-  <li>Vijaya Raja Mayuri</li>
-  <li>Sneha Ojha</li>
+  - Lahari Thamatam
+  - Vijaya Raja Mayuri
+  - Sneha Ojha
   
   # Links
   Repository-Link:  (https://github.com/Thamatamlahari/nyc-property-sales)
@@ -17,7 +17,7 @@ Project Number -3
   Issuetracker-Link:   (https://github.com/Thamatamlahari/nyc-property-sales/issues)
   
   
- ## Introduction:
+ ## Introduction
  
  
  This dataset is a record of every building or building unit (apartment, etc.) sold in the New York City property market over a 12-month period.
