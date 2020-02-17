@@ -31,7 +31,10 @@ Variety: The data is structured. The data set is in excel form.
 Velocity: Velocity of the data set is zero as it was updated 2 years ago.
 Veracity: The data is structured and cleaned and it is not messy. The data is trustworthy.
 Value: The property dealers can use this. They can find the future trends using this data.
-Link for the Data source:   https://www.kaggle.com/new-york-city/nyc-property-sales#nyc-rolling-sales.csv
+Link for the Data source:   
+
+
+https://www.kaggle.com/new-york-city/nyc-property-sales#nyc-rolling-sales.csv
 
 for year built i will find the sum of residential units listed.
 
