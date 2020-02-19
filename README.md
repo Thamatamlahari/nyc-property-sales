@@ -9,9 +9,9 @@ Section Number - 01
 
 
 <b>Team Members:</b>
-  - Lahari Thamatam
-  - Vijaya Raja Mayuri
-  - Sneha Ojha
+  - Lahari Thamatam - S534689@nwmissouri.edu
+  - Vijaya Raja Mayuri - S534684@nwmissouri.edu
+  - Sneha Ojha - S530521@nwmissouri.edu
   
   # Links
   Repository Link:  (https://github.com/Thamatamlahari/nyc-property-sales)
