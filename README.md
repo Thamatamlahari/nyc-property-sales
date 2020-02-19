@@ -48,7 +48,7 @@ Mapper output: 1920 10
 
 Reducer output:1920 300
 
-Chart type: Bar Chart
+Chart type: For each year built the sum of residential units, bar chart would be appropriate for easily identifying and comparing data
 
 ## Vijaya Raja Mayuri Akula
 
