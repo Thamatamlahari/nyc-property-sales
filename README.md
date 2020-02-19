@@ -48,7 +48,7 @@ Mapper output: 1920 10
 
 Reducer output:1920 300
 
-Chart type: Bar Chart
+Chart type: For each year built the sum of residential units, bar chart would be appropriate for easily identifying and comparing data
 
 ## Vijaya Raja Mayuri Akula
 
@@ -56,11 +56,11 @@ for year built i will find the maximum of residential units listed.
 
 Mapper input: 1 ALPHABET CITY 07 RENTALS - WALKUP APARTMENTS             2A 392 6 C2 153 AVENUE B 10009 5 0 5 1633 6440 1900 2 C2 6625000 7/19/2017 0:00
 
-Mapper output: 1920 10
+Mapper output: 1900	5
 
-Reducer output:1920 70
+Reducer output:2016	550.0
 
-Chart type: Bar Chart
+Chart type: For the maximum of residential units for the each yaer built, line chart will be helpful for finding the values.
 
 ## Sneha Ohja
 
