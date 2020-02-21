@@ -5,10 +5,13 @@ BigData - 44517
 Project Number - 3
 
 
+Section Number - 01
+
+
 <b>Team Members:</b>
-  - Lahari Thamatam
-  - Vijaya Raja Mayuri
-  - Sneha Ojha
+  - Lahari Thamatam - S534689@nwmissouri.edu
+  - Vijaya Raja Mayuri - S534684@nwmissouri.edu
+  - Sneha Ojha - S530521@nwmissouri.edu
   
   # Links
   Repository Link:  (https://github.com/Thamatamlahari/nyc-property-sales)
@@ -68,11 +71,11 @@ for year built i will find the count of residential units listed.
 
 Mapper input: 1 ALPHABET CITY 07 RENTALS - WALKUP APARTMENTS             2A 392 6 C2 153 AVENUE B 10009 5 0 5 1633 6440 1900 2 C2 6625000 7/19/2017 0:00
 
-Mapper output: 1920 1
+Mapper output: 1900 5
 
-Reducer output:1920 80000
+Reducer output:2016 794
 
-Chart type: Bar Chart
+Chart type: For the count of residential units for each year built bar chart can be created because it can be understandable
 
 
 
