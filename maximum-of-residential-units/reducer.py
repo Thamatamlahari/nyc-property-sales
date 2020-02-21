@@ -24,7 +24,7 @@ for line in s:
 #finding the max of residential units
 # output the final entry when done
 r.write(thisKey + '\t' + str(thisValue)+'\n')
-
+# The output is seen in 03.txt file
 
 
 s.close()
