@@ -1,4 +1,7 @@
+# This a reducer file that takes the key value pairs and apply the aggrgate function and gives the output
+# open the 02.txt file
 s = open("02.txt","r")
+# write the output to output.txt
 r = open("output.txt", "w")
 
 thisKey = ""
@@ -17,7 +20,7 @@ for line in s:
     thisKey = yearbuilt 
     thisValue = 0
   
-  # apply the aggregation function
+  # This is the sum aggregation function for finding sum of residential units
   thisValue += int(residentialunits)
 
 # output the final entry when done
