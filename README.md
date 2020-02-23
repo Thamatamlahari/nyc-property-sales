@@ -53,6 +53,8 @@ Reducer output:1920 300
 
 Chart type: For each year built the sum of residential units, bar chart would be appropriate for easily identifying and comparing data
 
+![chart]()
+
 ## Vijaya Raja Mayuri Akula
 
 for year built i will find the maximum of residential units listed.
