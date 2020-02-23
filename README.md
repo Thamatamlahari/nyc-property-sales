@@ -53,7 +53,7 @@ Reducer output:1920 300
 
 Chart type: For each year built the sum of residential units, bar chart would be appropriate for easily identifying and comparing data
 
-![chart]()
+![Chart](https://github.com/Thamatamlahari/nyc-property-sales/blob/master/images/sum%20of%20residential%20chart.PNG)
 
 ## Vijaya Raja Mayuri Akula
 
