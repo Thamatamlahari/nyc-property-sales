@@ -79,7 +79,7 @@ Mapper output: 1900 5
 
 Reducer output:2016 794
 
-Chart type: For the count of residential units for each year built bar chart can be created because it can be understandable
+Chart type: For the count of residential units for each year built, clustered column chart can be created because it can be understandable
 
 ![Chart](Capture.PNG)
 
