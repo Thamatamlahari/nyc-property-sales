@@ -65,7 +65,7 @@ Mapper output: 1900	5
 
 Reducer output:2016	550.0
 
-Chart type: For the maximum of residential units for the each year built, line chart will be helpful for finding the values.
+Chart type: For the maximum of residential units for the each year built, clustered column chart will be helpful for finding the values.
 
 ![Chart](https://github.com/Thamatamlahari/nyc-property-sales/blob/master/images/maximum%20of%20residentialchart%20.PNG)
 
