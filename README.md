@@ -82,6 +82,10 @@ Reducer output:2016 794
 Chart type: For the count of residential units for each year built bar chart can be created because it can be understandable
 
 ## Setup instructions
+- Create two files mapper and reducer for each aggregate function.
+- Open the powershell as administrater and run each mapper and reducer files respectively given in the commands section.
+- Results are generated in the given output files.
+ 
 
 
 ## Commands
