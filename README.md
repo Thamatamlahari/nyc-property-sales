@@ -69,7 +69,7 @@ Chart type: For the maximum of residential units for the each year built, cluste
 
 ![Chart](https://github.com/Thamatamlahari/nyc-property-sales/blob/master/images/maximum%20of%20residentialchart%20.PNG)
 
-## Sneha Ohja
+## Sneha Ojha
 
 for year built i will find the count of residential units listed.
 
@@ -79,7 +79,9 @@ Mapper output: 1900 5
 
 Reducer output:2016 794
 
-Chart type: For the count of residential units for each year built bar chart can be created because it can be understandable
+Chart type: For the count of residential units for each year built, clustered column chart can be created because it can be understandable
+
+![Chart](Capture.PNG)
 
 ## Setup instructions
 - Create two files mapper and reducer for each aggregate function.
